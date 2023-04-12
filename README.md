@@ -1,4 +1,7 @@
 # RBR-Digidash-modified-template
+- Game: Richard Burns Rally
+- Mod: https://rallysimfans.hu/
+
 Digidash basic template with modified bnk file included.
 
 - digidash.ini and digidash_1280.ini files are from the original **digidash full**
