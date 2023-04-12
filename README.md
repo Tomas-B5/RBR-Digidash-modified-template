@@ -1,6 +1,7 @@
 # RBR-Digidash-modified-template
 - Game: Richard Burns Rally
 - Mod: https://rallysimfans.hu/
+- To be used with: https://github.com/Tomas-B5/RBR-HUD-EDITOR
 
 Digidash basic template with modified bnk file included.
 
