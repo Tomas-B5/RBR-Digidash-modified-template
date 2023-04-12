@@ -9,10 +9,17 @@ Digidash basic template with modified bnk file included.
 # Modified:
 
 <img src="https://user-images.githubusercontent.com/104921631/231561893-cd78a701-f1fb-457a-af40-eea11d629b99.png" width="500">
+
 - Same size for all RPM icons
+
 - Same size for all gear icons(Previously 1 was way too small)
+
 - More consistent icon alignment
+
+- Bigger shift indicators and many other textures
+
 - Clear boundries
+
 - Big Label_KM texture to be used as a background texture.
 
 # Original:
