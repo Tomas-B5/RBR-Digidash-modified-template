@@ -1,6 +1,8 @@
 # RBR-Digidash-modified-template
 Digidash basic template with modified bnk file included.
 
+- digidash.ini and digidash_1280.ini files are from the original **digidash full**
+
 # Modified:
 
 <img src="https://user-images.githubusercontent.com/104921631/231561893-cd78a701-f1fb-457a-af40-eea11d629b99.png" width="500">
