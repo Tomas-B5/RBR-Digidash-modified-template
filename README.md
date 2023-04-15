@@ -36,3 +36,11 @@ Digidash basic template with modified bnk file included.
 - Select your dashboard RSF launcher (Cockpit & Dashboard)
 - Modify object placement using https://github.com/Tomas-B5/RBR-HUD-EDITOR or notepad if you are built like that.
 - Share your results with https://rallysimfans.hu community
+
+# Examples
+Here are some examples of Digidashes you can make using this template(some of them are using the original template)
+
+- MATRX(by me) ![preview](https://user-images.githubusercontent.com/104921631/232234133-b01b0d6e-2c7c-43f9-9cc9-7a7c503a2768.png)
+- MATRX compact(by me) ![preview](https://user-images.githubusercontent.com/104921631/232234230-13c91635-e384-4496-8d66-957272358fb5.png)
+- ECU-M round(by [DarrenBlythe](https://rbrdarren.blogspot.com/)) ![preview](https://user-images.githubusercontent.com/104921631/232234458-60fb330b-b5cc-4dd5-a8bb-6d6935a1482d.png)
+
