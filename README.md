@@ -46,3 +46,6 @@ Here are some examples of Digidashes you can make using this template(some of th
 - MATRX compact(by me) ![preview](https://user-images.githubusercontent.com/104921631/232234230-13c91635-e384-4496-8d66-957272358fb5.png)
 - ECU-M round(by [DarrenBlythe](https://rbrdarren.blogspot.com/)) ![preview](https://user-images.githubusercontent.com/104921631/232234458-60fb330b-b5cc-4dd5-a8bb-6d6935a1482d.png)
 
+# Credits
+- [Mika-n](https://github.com/mika-n) - For a lot of info regarding how digidashes work
+
