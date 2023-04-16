@@ -23,6 +23,8 @@ Digidash basic template with modified bnk file included.
 
 - Big Label_KM texture to be used as a background texture.
 
+- Uses bigger texture resolution. (2^n size is advised for texture file, 512x512, 1024x1024 or 2048x2048)
+
 # Original:
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/104921631/231562532-775441bf-943b-41ac-9565-b4ebdc4c36a9.png">
